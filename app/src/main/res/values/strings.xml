@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AirQ</string>
+    <string name="connect_device">Connect AQ module</string>
+    <string name="humidity">Humidity</string>
+    <string name="air_quality">Air Quality</string>
+    <string name="temperature">Temperature</string>
+    <string name="percent">%</string>
+    <string name="c">℃</string>
+    <string name="ppm">PPM</string>
+    <string name="_00">00</string>
+</resources>

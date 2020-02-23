@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1CA704</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#141414</color>
+    <color name="good_a">#0C79B6</color>
+    <color name="mod_a">#B8AB00</color>
+    <color name="unhealthy_a">#BD4D31</color>
+</resources>
