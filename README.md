@@ -15,7 +15,7 @@ Arduino:
 Android:
 <br>To read serial data which is in bytes<br>
 ```byte[] response = new bytes[3];``` <br>
-port.read(response, READ_WAIT_MILLIS);```
+```port.read(response, READ_WAIT_MILLIS);```
 
 ## Refer
 https://github.com/mik3y/usb-serial-for-android
