@@ -5,7 +5,7 @@ USB Serial interface between arduino to android and python
 Phone should have OTG support.
 
 <br><br>
-### HAQT app <a href="https://drive.google.com/open?id=1QkfwZ5lyCaG8pm2cIbEduOcPqybLoP3Q">(link)</a><br>
+### HAQT app <a href="https://drive.google.com/open?id=1QkfwZ5lyCaG8pm2cIbEduOcPqybLoP3Q" target="_blank">(link)</a><br>
 
 <img src="https://i.imgur.com/ISrUXYS.jpg" width="200">
 
