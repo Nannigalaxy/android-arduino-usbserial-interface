@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="10dp"
-        android:text="AirQ"
+        android:text="@string/app_name"
         android:textColor="@color/colorPrimary"
         android:textSize="50sp"
         app:layout_constraintEnd_toEndOf="parent"
