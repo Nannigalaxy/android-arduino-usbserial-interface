@@ -1,4 +1,4 @@
-# android-arduino-usbserial-interface
+# arduino-usbserial-interface
 USB Serial interface between arduino to android and python
 
 >Note: No external power supply is needed for arduino. Phone will power the arduino via usb.<br>
