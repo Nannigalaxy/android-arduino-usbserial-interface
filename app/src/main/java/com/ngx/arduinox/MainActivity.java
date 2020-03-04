@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
         manager.requestPermission(device, permissionIntent);
         UsbDeviceConnection connection = manager.openDevice(driver.getDevice());
 
-//
+
 //        HashMap<String, UsbDevice> usbDevices = manager.getDeviceList();
 //        Collection<UsbDevice> ite = usbDevices.values();
 //        UsbDevice[] usbs = ite.toArray(new UsbDevice[]{});
