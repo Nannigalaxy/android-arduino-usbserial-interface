@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
             int mq = (int) response[2] & 0xff;
             String quality = "";
 
-            if(mq>0 && mq<100){
+            if(mq>0 && mq<101){
                 quality="Good";
                 textView4.setTextColor(getColor(R.color.good_a));
             }
@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
                 quality="Moderate";
                 textView4.setTextColor(getColor(R.color.mod_a));
             }
-            if(mq>200){
+            if(mq>149){
                 quality="Unhealthy";
                 textView4.setTextColor(getColor(R.color.unhealthy_a));
             }
