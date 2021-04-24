@@ -25,5 +25,9 @@ Android:
 ```byte[] response = new bytes[3];``` <br>
 ```port.read(response, READ_WAIT_MILLIS);```
 
+Ubuntu:  
+`sudo apt-get install python-serial`  
+Change this line to  
+`arduino = serial.Serial('/dev/ttyACM0', 9600, timeout=0)`  
 ## Refer
 https://github.com/mik3y/usb-serial-for-android
