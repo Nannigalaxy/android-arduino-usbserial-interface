@@ -1,6 +1,8 @@
-# arduino-usbserial-interface
+# arduino-usb-serial-interface
 USB Serial interface between arduino to android and python
 
+### Hardware Device  
+<img src="https://github.com/Nannigalaxy/arduino-usbserial-interface/blob/master/device_01.jpeg" width="700">   
 *Note: No external power supply is needed for arduino. Phone will power the arduino via usb.<br>
 Phone should have OTG support.*
 
@@ -10,9 +12,11 @@ Phone should have OTG support.*
 <img src="https://i.imgur.com/ISrUXYS.jpg" width="200">
 
 ### Python
+cd into the repo folder   
+`python3 arduthon.py`  
 <img src="https://i.imgur.com/fgwAiWX.png" width="700">
 
-
+## How to read serial data 
 ### Android:
 <br>To read serial data which is in bytes  
 ```byte[] response = new bytes[3];```   
