@@ -2,7 +2,7 @@
 USB Serial interface between arduino to android and python
 
 ### Hardware Device  
-<img src="https://github.com/Nannigalaxy/arduino-usbserial-interface/blob/master/device_01.jpg" width="700">   
+<img src="device_01.jpg" width="500">   
 *Note: No external power supply is needed for arduino. Phone will power the arduino via usb.<br>
 Phone should have OTG support.*
 
